@@ -1,0 +1,254 @@
+{
+  "101": {
+    "Name": "Biscuit",
+    "Quantity": 25,
+    "Expiry Date": "5/3/2023",
+    "MRP": 20,
+    "Discount": 10
+  },
+  "102": {
+    "Name": "Noodles",
+    "Quantity": 35,
+    "Expiry Date": "5/3/2022",
+    "MRP": 50,
+    "Discount": 5
+  },
+  "103": {
+    "Name": "Namkeen",
+    "Quantity": 38,
+    "Expiry Date": "4/4/2022",
+    "MRP": 80,
+    "Discount": 15
+  },
+  "104": {
+    "Name": "Sweet",
+    "Quantity": 100,
+    "Expiry Date": "3/5/2022",
+    "MRP": 150,
+    "Discount": 10
+  },
+  "105": {
+    "Name": "Chocolate",
+    "Quantity": 115,
+    "Expiry Date": "5/6/2023",
+    "MRP": 30,
+    "Discount": 15
+  },
+  "106": {
+    "Name": "Candy",
+    "Quantity": 135,
+    "Expiry Date": "5/3/2024",
+    "MRP": 10,
+    "Discount": 5
+  },
+  "107": {
+    "Name": "Chips",
+    "Quantity": 95,
+    "Expiry Date": "20/1/2023",
+    "MRP": 50,
+    "Discount": 5
+  },
+  "108": {
+    "Name": "Cold Drink",
+    "Quantity": 46,
+    "Expiry Date": "15/9/2022",
+    "MRP": 80,
+    "Discount": 10
+  },
+  "109": {
+    "Name": "Oats",
+    "Quantity": 85,
+    "Expiry Date": "20/7/2024",
+    "MRP": 150,
+    "Discount": 5
+  },
+  "110": {
+    "Name": "Peanut Butter",
+    "Quantity": 90,
+    "Expiry Date": "10/8/2023",
+    "MRP": 250,
+    "Discount": 15
+  },
+  "111": {
+    "Name": "Bread",
+    "Quantity": 200,
+    "Expiry Date": "10/10/2021",
+    "MRP": 50,
+    "Discount": 10
+  },
+  "112": {
+    "Name": "Almond",
+    "Quantity": 40,
+    "Expiry Date": "15/2/2022",
+    "MRP": 500,
+    "Discount": 15
+  },
+  "113": {
+    "Name": "Cashew",
+    "Quantity": 59,
+    "Expiry Date": "5/3/2023",
+    "MRP": 550,
+    "Discount": 15
+  },
+  "114": {
+    "Name": "Milk",
+    "Quantity": 250,
+    "Expiry Date": "10/9/2021",
+    "MRP": 50,
+    "Discount": 5
+  },
+  "115": {
+    "Name": "Cream",
+    "Quantity": 75,
+    "Expiry Date": "5/11/2022",
+    "MRP": 100,
+    "Discount": 15
+  },
+  "116": {
+    "Name": "Cheese",
+    "Quantity": 100,
+    "Expiry Date": "15/11/2022",
+    "MRP": 150,
+    "Discount": 25
+  },
+  "117": {
+    "Name": "Butter",
+    "Quantity": 105,
+    "Expiry Date": "25/12/2022",
+    "MRP": 100,
+    "Discount": 10
+  },
+  "118": {
+    "Name": "Rice",
+    "Quantity": 50,
+    "Expiry Date": "10/5/2023",
+    "MRP": 120,
+    "Discount": 10
+  },
+  "119": {
+    "Name": "Toast",
+    "Quantity": 75,
+    "Expiry Date": "15/2/2022",
+    "MRP": 50,
+    "Discount": 10
+  },
+  "120": {
+    "Name": "Sugar",
+    "Quantity": 250,
+    "Expiry Date": "25/11/2021",
+    "MRP": 70,
+    "Discount": 10
+  },
+  "121": {
+    "Name": "Tea Packet",
+    "Quantity": 120,
+    "Expiry Date": "10/8/2023",
+    "MRP": 100,
+    "Discount": 15
+  },
+  "122": {
+    "Name": "Coffee Packet",
+    "Quantity": 125,
+    "Expiry Date": "20/2/2024",
+    "MRP": 150,
+    "Discount": 25
+  },
+  "123": {
+    "Name": "Juice",
+    "Quantity": 299,
+    "Expiry Date": "12/3/2022",
+    "MRP": 150,
+    "Discount": 15
+  },
+  "124": {
+    "Name": "Shake",
+    "Quantity": 70,
+    "Expiry Date": "20/5/2023",
+    "MRP": 100,
+    "Discount": 10
+  },
+  "125": {
+    "Name": "Banana",
+    "Quantity": 50,
+    "Expiry Date": "10/10/2021",
+    "MRP": 60,
+    "Discount": 10
+  },
+  "126": {
+    "Name": "Apple",
+    "Quantity": 138,
+    "Expiry Date": "20/10/2021",
+    "MRP": 150,
+    "Discount": 5
+  },
+  "127": {
+    "Name": "Polmegranate",
+    "Quantity": 75,
+    "Expiry Date": "25/11/2021",
+    "MRP": 120,
+    "Discount": 5
+  },
+  "128": {
+    "Name": "Grapes",
+    "Quantity": 89,
+    "Expiry Date": "30/9/2021",
+    "MRP": 100,
+    "Discount": 10
+  },
+  "129": {
+    "Name": "Peaches",
+    "Quantity": 36,
+    "Expiry Date": "15/10/2021",
+    "MRP": 80,
+    "Discount": 15
+  },
+  "130": {
+    "Name": "Guava",
+    "Quantity": 83,
+    "Expiry Date": "20/11/2021",
+    "MRP": 230,
+    "Discount": 10
+  },
+  "131": {
+    "Name": "Papaya",
+    "Quantity": 90,
+    "Expiry Date": "10/10/2021",
+    "MRP": 120,
+    "Discount": 25
+  },
+  "132": {
+    "Name": "Salt",
+    "Quantity": 130,
+    "Expiry Date": "25/12/2023",
+    "MRP": 20,
+    "Discount": 15
+  },
+  "133": {
+    "Name": "Cake",
+    "Quantity": 125,
+    "Expiry Date": "12/2/2022",
+    "MRP": 123,
+    "Discount": 17
+  },
+  "134": {
+    "Name": "Choco Candi",
+    "Quantity": 109,
+    "Expiry Date": "12/2/2021",
+    "MRP": 75,
+    "Discount": 15
+  },
+  "135": {
+    "Name": "Sugarcane Juice",
+    "Quantity": 25,
+    "Expiry Date": "12/12/2021",
+    "MRP": 100,
+    "Discount": 10
+  },
+  "136": {
+    "Name": "Chocolate Cake",
+    "Quantity": 150,
+    "Expiry Date": "12/12/2022",
+    "MRP": 140,
+    "Discount": 25
+  }
+}
